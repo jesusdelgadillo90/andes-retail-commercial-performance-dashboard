@@ -1,4 +1,4 @@
-# andes-retail-commercial-performance-dashboard
+![image alt](https://github.com/jesusdelgadillo90/andes-retail-commercial-performance-dashboard/blob/c5bbd8ccbd2f1679ae8f89da2d291f806890ceac/f75ef70f-1c7b-42ef-a5ce-f837f2d20137.webp)
 
 Tablero interactivo de inteligencia de negocios diseñado para monitorear el desempeño comercial, identificar tendencias clave y respaldar la toma de decisiones ejecutivas.
 
